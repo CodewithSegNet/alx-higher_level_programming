@@ -2,10 +2,10 @@
 This is an ALX School project on exceptions on python.
 
 The source code has to follow certain rules:
-
-<h4>First line should be</h4>
-#!/usr/bin/python3
 <ul>
+<li>First line should be</li>
+#!/usr/bin/python3
+
 <li>Code should use PEP8 style.</li>
 <li>Should end with new line.</li>
 <li>There should be a README.md file at the root of directory.</li>
