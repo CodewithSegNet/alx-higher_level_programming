@@ -3,7 +3,8 @@ This is an ALX School project on exceptions on python.
 
 The source code has to follow certain rules:
 <ul>
-<li>First line should be</li>
+<li>First line should be</li
+>
 #!/usr/bin/python3
 
 <li>Code should use PEP8 style.</li>
