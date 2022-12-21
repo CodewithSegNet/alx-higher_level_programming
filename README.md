@@ -1,29 +1,26 @@
+### SCHOOL
+         _____     ______     _____  _____  
+        /  _  \    |    |     \    \/    / 
+       /  /_\  \   |    |      \   ||   /   
+      /    |    \  |    |___   /   ||   \   
+     /  __/ \__  \ |___ _ ___\/    /\    \  
+    /____/   \____\|_________/____/  \    \
+                                      \____\
+
+# High Level Programming
+
+This repository contains programs written in Python for my High Level Programming projects in ALX software engineering curriculum. 
+Topics covered in these projects include data structures (e.g. arrrays, linked lists, binary trees), algorithms (e.g. searching, sorting) and more.
+
+## Projects
+
+| 0x00. Python - Hello World |
+| 0x01-python-if_else_loops_functions |
+| 0x02-python-import_modules |
+| 0x03-python-data_structures |
+| 0x04-python-more_data_structures |
 
 
-# 0x06. Python - Classes and Objects
+## Author 
 
-## Description
-What you should learn from this project:
-
-* Why Python programming is awesome (don’t forget to tweet today, with the hashtag #pythoniscool :))
-* What is OOP
-* “first-class everything”
-* What is a class
-* What is an object and an instance
-* What is the difference between a class and an object or instance
-* What is an attribute
-* What are and how to use public, protected and private attributes
-* What is self
-* What is a method
-* What is the special __init__ method and how to use it
-* What is Data Abstraction, Data Encapsulation, and Information Hiding
-* What is a property
-* What is the difference between an attribute and a property in Python
-* What is the Pythonic way to write getters and setters in Python
-* How to dynamically create arbitrary new attributes for existing instances of a class
-* How to bind attributes to object and classes
-* What is and what does contain __dict__ of a class and of an instance of a class
-* How does Python find the attributes of an object or class
-* How to use the getattr function
-
----
+**Olusegun Emmanuel** | **Alias:** *CodewithSegNet*
