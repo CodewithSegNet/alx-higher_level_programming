@@ -29,7 +29,7 @@ Namespaces are one honking great idea -- let's do more of those!
 
 </details>
 
->I thought I had escaped [betty](https://github.com/holbertonschool/Betty), but here we have [PEP8](https://www.python.org/dev/peps/pep-0008/)
+>I thought I had escaped [betty](https://github.com/alx_Africa/Betty), but here we have [PEP8](https://www.python.org/dev/peps/pep-0008/)
 
 <details>
 <summary> Install Python3, pip3 and pycodestyle</summary>
@@ -46,7 +46,7 @@ Namespaces are one honking great idea -- let's do more of those!
 
 ## About
 
-- This repository consists of all the .Subject projects done with [ALX Africa](https://www.alxafrica.com/) Full stack Software Engineering course in partnership with [Holberton School](https://www.holbertonschool.com/) by [th3\_gr00t](https://th3-gr00t.tk/).
+- This repository consists of all the .Subject projects done with [ALX Africa](https://www.alxafrica.com/) Full stack Software Engineering course in partnership with [Holberton School](https://www.holbertonschool.com/) by [Segnet](https://https://github.com/CodewithSegNet/).
 
 
 ## Resource
