@@ -1,4 +1,4 @@
-<h1>0x02. Python - Exceptions</h1>
+<h1>0x05. Python - Exceptions</h1>
 This is an ALX School project on exceptions on python.
 
 The source code has to follow certain rules:
