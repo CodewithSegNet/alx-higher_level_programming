@@ -1,11 +1,3 @@
 #!/usr/bin/node
-// JS to check arguments passed into script
-'use strict';
-let len = process.argv.length;
-if (len < 3) {
-  console.log('No argument');
-} else if (len > 3) {
-  console.log('Arguments found');
-} else {
-  console.log('Argument found');
-}
+const count = process.argv.length;
+console.log(count === 2 ? 'No argument' : count === 3 ? 'Argument found' : 'Arguments found');
