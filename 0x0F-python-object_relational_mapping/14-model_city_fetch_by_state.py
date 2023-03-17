@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 """Script prints all City objects
 Takes three arguments
     mysql username
