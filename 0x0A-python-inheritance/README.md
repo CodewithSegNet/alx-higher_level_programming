@@ -1,4 +1,4 @@
-# :colombia: Python - Inheritance                                               
+# 🇳🇬: Python - Inheritance                                               
 - What is a superclass, baseclass or parentclass                                
 - What is a subclass                                                            
 - How to list all attributes and methods of a class or instance                 
